@@ -22,6 +22,6 @@ Pada menu daftar jabatan, kita bisa melihat kumpulan jabatan dari suatu divisi. 
 
 Pada menu daftar pengurus, kita bisa melihat berbagai pengurus dari suatu divisi. Terdapat juga button untuk menambah daftar pengurus. Selain itu, foto diri, nama pengurus, dan jabatan dapat di-klik dan akan membawa kita menuju detail pengurus. 
 
-## Detail Pemgurus
+## Detail Pengurus
 
 Ketika kita menekan salah satu pengurus maka kita akan menuju ke detail pengurus tersebut. Pada detail pengurus terdapat informasi dari pengurus yang meliputi nama, nim, semester, nama divisi, dan jabatan yang dipegang. Selain itu, terdapat tombol untuk mengedit dan menghapus data pengurus tersebut. 
